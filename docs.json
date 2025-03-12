@@ -76,8 +76,8 @@
     }
   },
   "logo": {
-    "light": "/logo/aptlyos.png",
-    "dark": "/logo/aptlyos.png"
+    "light": "/logo/aoslogo.png",
+    "dark": "/logo/aoslogo.png"
   }
   
 }
